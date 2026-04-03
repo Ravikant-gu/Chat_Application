@@ -54,6 +54,8 @@ This project implements a basic client-server chat system using Java sockets. Th
 - The connection closes when "exit" is sent.
 
 ## Contributing
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/1ed25bae-ceca-480b-9d6b-50ce22f9204d" />
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/025a8610-8b89-4e21-b621-1d09941e0915" />
 
 1. Fork the repository.
 2. Create a feature branch: `git checkout -b feature-name`
